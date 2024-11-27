@@ -1,0 +1,14 @@
+
+[2024-11-27 20:54:12] Organization 'Nettbureau Test AS' already exists. ID: 31
+[2024-11-27 20:54:12] Person with email 'Ove.andre.tidemansen@gmail.com' already exists. ID: 35
+[2024-11-27 20:54:13] Error creating lead: Client error: `POST https://nettbureauasdevelopmentteam.pipedrive.com/v1/leads?api_token=cc8b7ad043662da5fc83b3359789daea6cf21c8a` resulted in a `400 Bad Request` response:
+{"success":false,"data":null,"additional_data":null,"error":"provided dataset is not valid","error_info":"\"title\" must (truncated...)
+
+[2024-11-27 20:55:55] Organization 'Nettbureau Test AS' already exists. ID: 31
+[2024-11-27 20:55:55] Person with email 'Ove.andre.tidemansen@gmail.com' already exists. ID: 35
+[2024-11-27 20:55:56] Error creating lead: Client error: `POST https://nettbureauasdevelopmentteam.pipedrive.com/v1/leads?api_token=cc8b7ad043662da5fc83b3359789daea6cf21c8a` resulted in a `400 Bad Request` response:
+{"success":false,"data":null,"additional_data":null,"error":"provided dataset is not valid","error_info":"\"title\" must (truncated...)
+
+[2024-11-27 20:59:43] Organization 'Nettbureau Test AS' already exists. ID: 31
+[2024-11-27 20:59:44] Person with email 'Ove.andre.tidemansen@gmail.com' already exists. ID: 35
+[2024-11-27 20:59:44] Lead with title 'Ove Andre Tidemansen Lead' already exists. ID: 5df24b60-ac61-11ef-ace8-4709d6b5d72a

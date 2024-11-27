@@ -1,0 +1,18 @@
+{
+  "organization": {
+    "name": "Nettbureau Test AS"
+  },
+  "person": {
+    "name": "Ove Andre Tidemansen",
+    "email": "Ove.andre.tidemansen@gmail.com",
+    "phone": "40612261",
+    "contact_type": 30
+  },
+  "lead": {
+    "title": "Ove Andre Tidemansen Lead",
+    "housing_type": 33,
+    "property_size": 160,
+    "deal_type": 41,
+    "comment": "This is a test comment for the lead"
+  }
+}
