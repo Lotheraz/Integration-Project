@@ -1,5 +1,7 @@
 <?php
 
+// This is just a test file to test the relation between persons, orgs and leads. 
+
 require __DIR__ . '/../vendor/autoload.php'; // Inkluder Composer-autoloader
 
 use GuzzleHttp\Client;
