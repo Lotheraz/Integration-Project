@@ -1,5 +1,7 @@
 <?php
 
+// Just a test file to test the log functions first iteration
+
 require __DIR__ . '/../vendor/autoload.php'; // Inkluder Composer-autoloader
 
 use GuzzleHttp\Client;
