@@ -215,7 +215,7 @@ function createLead($title, $personId, $orgId, $housingType, $propertySize, $dea
 // Main execution
 try {
     $testData = loadTestData(__DIR__ . '/../test/test_data.json');
-    $apiToken = 'cc8b7ad043662da5fc83b3359789daea6cf21c8a';
+    $apiToken = 'ENTER_API';
 
     $organizationName = $testData['organization']['name'];
     $personName = $testData['person']['name'];
